@@ -1,0 +1,101 @@
+course_id,course_title,category,level,rating,num_reviews,price,duration_hours,description,instructor
+1,Advanced Machine Learning 1,data science,advanced,4.06,910,7389,45.3,This is a comprehensive data science course designed for advanced learners.,Emily Johnson
+2,Deep Learning with TensorFlow 2,machine learning,beginner,4.4,516,7333,8.2,This is a comprehensive machine learning course designed for beginner learners.,David Brown
+3,Advanced Machine Learning 3,cyber security,advanced,4.8,3221,4918,43.9,This is a comprehensive cyber security course designed for advanced learners.,Priya Sharma
+4,Advanced Machine Learning 4,cloud computing,intermediate,3.53,819,4390,50.8,This is a comprehensive cloud computing course designed for intermediate learners.,John Smith
+5,Python for Data Science 5,data science,beginner,3.82,1234,6554,38.6,This is a comprehensive data science course designed for beginner learners.,Akash Kumar
+6,Full Stack Web Development 6,cloud computing,beginner,3.51,2954,9727,33.9,This is a comprehensive cloud computing course designed for beginner learners.,Priya Sharma
+7,Deep Learning with TensorFlow 7,cyber security,advanced,4.1,2097,9642,58.6,This is a comprehensive cyber security course designed for advanced learners.,David Brown
+8,Full Stack Web Development 8,business analytics,beginner,3.85,2784,5004,16.0,This is a comprehensive business analytics course designed for beginner learners.,Michael Lee
+9,Statistics for Data Science 9,web development,beginner,4.27,1578,5201,52.3,This is a comprehensive web development course designed for beginner learners.,Akash Kumar
+10,Cloud Computing with AWS 10,web development,intermediate,4.52,2938,8309,5.7,This is a comprehensive web development course designed for intermediate learners.,Akash Kumar
+11,Deep Learning with TensorFlow 11,web development,beginner,4.91,2111,2240,26.2,This is a comprehensive web development course designed for beginner learners.,John Smith
+12,Cloud Computing with AWS 12,data science,intermediate,3.52,1413,8234,29.2,This is a comprehensive data science course designed for intermediate learners.,Emily Johnson
+13,Statistics for Data Science 13,web development,beginner,3.68,2606,2774,6.9,This is a comprehensive web development course designed for beginner learners.,David Brown
+14,Cyber Security Fundamentals 14,cloud computing,beginner,4.86,2005,3584,41.4,This is a comprehensive cloud computing course designed for beginner learners.,Michael Lee
+15,Advanced Machine Learning 15,cloud computing,intermediate,3.97,3511,4612,35.1,This is a comprehensive cloud computing course designed for intermediate learners.,David Brown
+16,Statistics for Data Science 16,web development,advanced,3.78,4848,8544,47.6,This is a comprehensive web development course designed for advanced learners.,Akash Kumar
+17,Advanced Machine Learning 17,data science,advanced,4.91,2031,2994,37.9,This is a comprehensive data science course designed for advanced learners.,Akash Kumar
+18,Power BI Masterclass 18,data science,beginner,4.88,4601,9628,15.8,This is a comprehensive data science course designed for beginner learners.,John Smith
+19,Cloud Computing with AWS 19,web development,intermediate,3.57,387,2877,50.6,This is a comprehensive web development course designed for intermediate learners.,David Brown
+20,Excel for Business Analytics 20,machine learning,intermediate,4.04,4909,8330,34.8,This is a comprehensive machine learning course designed for intermediate learners.,Emily Johnson
+21,Deep Learning with TensorFlow 21,cyber security,intermediate,3.71,2112,5883,9.1,This is a comprehensive cyber security course designed for intermediate learners.,David Brown
+22,Advanced Machine Learning 22,cloud computing,advanced,4.98,2077,4694,5.3,This is a comprehensive cloud computing course designed for advanced learners.,Akash Kumar
+23,Full Stack Web Development 23,cyber security,beginner,4.72,441,7793,48.5,This is a comprehensive cyber security course designed for beginner learners.,Akash Kumar
+24,Cyber Security Fundamentals 24,business analytics,intermediate,4.41,3611,4277,40.8,This is a comprehensive business analytics course designed for intermediate learners.,David Brown
+25,Full Stack Web Development 25,machine learning,advanced,4.87,250,7958,29.7,This is a comprehensive machine learning course designed for advanced learners.,Emily Johnson
+26,Python for Data Science 26,machine learning,beginner,3.64,4648,4453,41.8,This is a comprehensive machine learning course designed for beginner learners.,Emily Johnson
+27,Cloud Computing with AWS 27,web development,beginner,4.5,2781,7990,20.1,This is a comprehensive web development course designed for beginner learners.,Akash Kumar
+28,Statistics for Data Science 28,cyber security,intermediate,4.34,2740,5839,44.7,This is a comprehensive cyber security course designed for intermediate learners.,Akash Kumar
+29,Cyber Security Fundamentals 29,business analytics,advanced,3.85,4543,2869,7.2,This is a comprehensive business analytics course designed for advanced learners.,Michael Lee
+30,SQL for Data Analysis 30,web development,beginner,4.57,1534,9857,6.7,This is a comprehensive web development course designed for beginner learners.,Akash Kumar
+31,Full Stack Web Development 31,cloud computing,intermediate,4.45,613,7115,33.0,This is a comprehensive cloud computing course designed for intermediate learners.,David Brown
+32,Statistics for Data Science 32,business analytics,advanced,4.86,1728,5241,16.2,This is a comprehensive business analytics course designed for advanced learners.,Michael Lee
+33,Excel for Business Analytics 33,machine learning,beginner,4.91,1772,5313,13.9,This is a comprehensive machine learning course designed for beginner learners.,Priya Sharma
+34,Cyber Security Fundamentals 34,data science,beginner,4.89,1647,5059,52.9,This is a comprehensive data science course designed for beginner learners.,John Smith
+35,SQL for Data Analysis 35,cyber security,beginner,4.71,3677,3362,54.1,This is a comprehensive cyber security course designed for beginner learners.,David Brown
+36,Cloud Computing with AWS 36,cloud computing,beginner,4.31,1579,4037,54.3,This is a comprehensive cloud computing course designed for beginner learners.,Michael Lee
+37,Cloud Computing with AWS 37,cloud computing,intermediate,3.98,1356,6028,5.0,This is a comprehensive cloud computing course designed for intermediate learners.,Priya Sharma
+38,Power BI Masterclass 38,cloud computing,beginner,4.03,1332,9525,14.1,This is a comprehensive cloud computing course designed for beginner learners.,David Brown
+39,Advanced Machine Learning 39,cyber security,advanced,4.3,4463,5747,43.1,This is a comprehensive cyber security course designed for advanced learners.,Emily Johnson
+40,Excel for Business Analytics 40,data science,intermediate,3.9,713,3997,14.3,This is a comprehensive data science course designed for intermediate learners.,Michael Lee
+41,SQL for Data Analysis 41,business analytics,beginner,3.83,1545,5303,27.2,This is a comprehensive business analytics course designed for beginner learners.,David Brown
+42,Power BI Masterclass 42,cloud computing,beginner,3.6,4709,3290,18.8,This is a comprehensive cloud computing course designed for beginner learners.,Priya Sharma
+43,Advanced Machine Learning 43,cyber security,intermediate,4.25,1686,5695,59.9,This is a comprehensive cyber security course designed for intermediate learners.,David Brown
+44,Full Stack Web Development 44,cloud computing,beginner,3.9,4147,6736,27.6,This is a comprehensive cloud computing course designed for beginner learners.,Akash Kumar
+45,Excel for Business Analytics 45,machine learning,advanced,3.55,3524,7756,13.0,This is a comprehensive machine learning course designed for advanced learners.,Priya Sharma
+46,Python for Data Science 46,cloud computing,intermediate,4.23,1783,7534,37.6,This is a comprehensive cloud computing course designed for intermediate learners.,Michael Lee
+47,Python for Data Science 47,data science,intermediate,3.62,3305,6217,18.3,This is a comprehensive data science course designed for intermediate learners.,Emily Johnson
+48,Deep Learning with TensorFlow 48,data science,beginner,4.7,2981,9776,39.8,This is a comprehensive data science course designed for beginner learners.,Priya Sharma
+49,Advanced Machine Learning 49,data science,advanced,4.3,658,5271,22.6,This is a comprehensive data science course designed for advanced learners.,Michael Lee
+50,Advanced Machine Learning 50,cloud computing,beginner,3.78,1844,2658,22.9,This is a comprehensive cloud computing course designed for beginner learners.,Akash Kumar
+51,Cyber Security Fundamentals 51,cloud computing,beginner,3.83,1419,3985,49.5,This is a comprehensive cloud computing course designed for beginner learners.,Emily Johnson
+52,Full Stack Web Development 52,cloud computing,intermediate,4.02,1784,3842,56.7,This is a comprehensive cloud computing course designed for intermediate learners.,Akash Kumar
+53,Full Stack Web Development 53,cyber security,advanced,4.1,2435,4918,12.6,This is a comprehensive cyber security course designed for advanced learners.,Akash Kumar
+54,Power BI Masterclass 54,business analytics,advanced,4.01,4111,5368,19.2,This is a comprehensive business analytics course designed for advanced learners.,David Brown
+55,Excel for Business Analytics 55,business analytics,advanced,4.49,673,3015,33.4,This is a comprehensive business analytics course designed for advanced learners.,Michael Lee
+56,Advanced Machine Learning 56,machine learning,beginner,3.89,3773,6547,54.5,This is a comprehensive machine learning course designed for beginner learners.,John Smith
+57,Excel for Business Analytics 57,data science,advanced,4.45,2106,9399,24.2,This is a comprehensive data science course designed for advanced learners.,Priya Sharma
+58,Deep Learning with TensorFlow 58,cloud computing,beginner,4.59,1204,6498,53.8,This is a comprehensive cloud computing course designed for beginner learners.,John Smith
+59,Advanced Machine Learning 59,cyber security,advanced,4.67,4041,6722,9.6,This is a comprehensive cyber security course designed for advanced learners.,John Smith
+60,Deep Learning with TensorFlow 60,data science,beginner,3.74,1495,6198,38.4,This is a comprehensive data science course designed for beginner learners.,Emily Johnson
+61,Advanced Machine Learning 61,cloud computing,beginner,3.51,2607,7591,41.5,This is a comprehensive cloud computing course designed for beginner learners.,Emily Johnson
+62,Cyber Security Fundamentals 62,machine learning,advanced,3.51,4483,5776,43.1,This is a comprehensive machine learning course designed for advanced learners.,Akash Kumar
+63,Statistics for Data Science 63,cloud computing,intermediate,4.48,4117,2159,6.0,This is a comprehensive cloud computing course designed for intermediate learners.,Akash Kumar
+64,Cyber Security Fundamentals 64,business analytics,beginner,4.24,4961,5986,25.2,This is a comprehensive business analytics course designed for beginner learners.,John Smith
+65,Advanced Machine Learning 65,cyber security,intermediate,4.62,1268,6495,21.9,This is a comprehensive cyber security course designed for intermediate learners.,Emily Johnson
+66,Cloud Computing with AWS 66,business analytics,intermediate,4.31,1004,6564,19.6,This is a comprehensive business analytics course designed for intermediate learners.,David Brown
+67,Python for Data Science 67,cyber security,advanced,3.87,3486,2561,54.1,This is a comprehensive cyber security course designed for advanced learners.,David Brown
+68,Advanced Machine Learning 68,data science,intermediate,4.45,275,9443,32.6,This is a comprehensive data science course designed for intermediate learners.,David Brown
+69,Excel for Business Analytics 69,data science,beginner,4.37,1009,7599,15.7,This is a comprehensive data science course designed for beginner learners.,Akash Kumar
+70,Deep Learning with TensorFlow 70,cloud computing,intermediate,4.58,4804,9682,6.3,This is a comprehensive cloud computing course designed for intermediate learners.,Akash Kumar
+71,Cloud Computing with AWS 71,machine learning,intermediate,4.47,66,9338,56.7,This is a comprehensive machine learning course designed for intermediate learners.,Michael Lee
+72,Deep Learning with TensorFlow 72,data science,intermediate,4.93,3494,4564,25.4,This is a comprehensive data science course designed for intermediate learners.,Priya Sharma
+73,Advanced Machine Learning 73,data science,advanced,3.52,2377,5419,28.6,This is a comprehensive data science course designed for advanced learners.,Priya Sharma
+74,Python for Data Science 74,data science,beginner,4.95,3220,2698,51.9,This is a comprehensive data science course designed for beginner learners.,Akash Kumar
+75,Cloud Computing with AWS 75,business analytics,intermediate,3.94,1030,4974,51.8,This is a comprehensive business analytics course designed for intermediate learners.,Akash Kumar
+76,Cloud Computing with AWS 76,data science,beginner,3.98,177,4064,35.6,This is a comprehensive data science course designed for beginner learners.,Michael Lee
+77,Python for Data Science 77,business analytics,intermediate,4.9,619,7441,36.4,This is a comprehensive business analytics course designed for intermediate learners.,Michael Lee
+78,Power BI Masterclass 78,business analytics,advanced,3.65,4064,4900,24.7,This is a comprehensive business analytics course designed for advanced learners.,David Brown
+79,Full Stack Web Development 79,cyber security,advanced,3.88,2587,3408,22.7,This is a comprehensive cyber security course designed for advanced learners.,Michael Lee
+80,SQL for Data Analysis 80,machine learning,intermediate,4.77,4391,9342,35.4,This is a comprehensive machine learning course designed for intermediate learners.,Akash Kumar
+81,Python for Data Science 81,cloud computing,advanced,3.94,587,7985,19.1,This is a comprehensive cloud computing course designed for advanced learners.,Priya Sharma
+82,Python for Data Science 82,cyber security,intermediate,4.42,3000,9991,39.5,This is a comprehensive cyber security course designed for intermediate learners.,John Smith
+83,Python for Data Science 83,cloud computing,intermediate,3.79,3897,8654,26.8,This is a comprehensive cloud computing course designed for intermediate learners.,Priya Sharma
+84,Full Stack Web Development 84,machine learning,beginner,3.58,1216,7210,36.8,This is a comprehensive machine learning course designed for beginner learners.,Priya Sharma
+85,Advanced Machine Learning 85,machine learning,beginner,4.16,2032,2852,23.0,This is a comprehensive machine learning course designed for beginner learners.,Priya Sharma
+86,Advanced Machine Learning 86,cyber security,beginner,3.73,3311,3147,51.1,This is a comprehensive cyber security course designed for beginner learners.,Michael Lee
+87,Advanced Machine Learning 87,cloud computing,beginner,4.79,1765,6776,50.2,This is a comprehensive cloud computing course designed for beginner learners.,Priya Sharma
+88,Statistics for Data Science 88,data science,advanced,4.04,2541,4659,33.7,This is a comprehensive data science course designed for advanced learners.,John Smith
+89,Cloud Computing with AWS 89,cyber security,advanced,4.65,3101,9786,39.3,This is a comprehensive cyber security course designed for advanced learners.,Priya Sharma
+90,Full Stack Web Development 90,web development,intermediate,3.63,926,2990,34.2,This is a comprehensive web development course designed for intermediate learners.,Akash Kumar
+91,Excel for Business Analytics 91,machine learning,intermediate,4.31,4414,6464,33.4,This is a comprehensive machine learning course designed for intermediate learners.,Michael Lee
+92,SQL for Data Analysis 92,cyber security,advanced,3.98,4802,2118,19.9,This is a comprehensive cyber security course designed for advanced learners.,Emily Johnson
+93,Cyber Security Fundamentals 93,web development,beginner,4.16,1419,2739,15.1,This is a comprehensive web development course designed for beginner learners.,John Smith
+94,Cyber Security Fundamentals 94,cloud computing,advanced,3.62,1200,9559,42.9,This is a comprehensive cloud computing course designed for advanced learners.,John Smith
+95,Advanced Machine Learning 95,cloud computing,beginner,3.59,4779,2511,29.3,This is a comprehensive cloud computing course designed for beginner learners.,Priya Sharma
+96,Power BI Masterclass 96,machine learning,intermediate,3.86,609,5671,41.3,This is a comprehensive machine learning course designed for intermediate learners.,John Smith
+97,Deep Learning with TensorFlow 97,web development,intermediate,3.92,3393,7307,45.6,This is a comprehensive web development course designed for intermediate learners.,Akash Kumar
+98,Cyber Security Fundamentals 98,cloud computing,advanced,4.33,2344,5146,36.1,This is a comprehensive cloud computing course designed for advanced learners.,Emily Johnson
+99,Statistics for Data Science 99,cyber security,advanced,3.74,2794,5355,11.4,This is a comprehensive cyber security course designed for advanced learners.,John Smith
+100,Full Stack Web Development 100,web development,advanced,3.57,2191,7868,58.9,This is a comprehensive web development course designed for advanced learners.,John Smith
